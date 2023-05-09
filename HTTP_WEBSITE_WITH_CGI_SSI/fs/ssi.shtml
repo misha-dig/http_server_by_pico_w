@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="1">
+  <title>Voltmeter and temperature</title>
+  <style>
+    body {
+      font-family: 'Trebuchet MS', sans-serif;
+      font-size:16px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Measuring parameters in voltage and temperature of MCU</h1>
+    <nav>
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+        <li><a href="/gallery.html">Our Gallery</a></li>
+        <li><a href="/sponsor.html">Our sponsors</a></li>
+        <li><a href="/ssi.shtml">Measure voltage and temperature</a></li>
+        <li><a href="/cgi.html">Toggle LEDs</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>Current measurement: </h2>
+      <p>Voltage: <!--#Vol--> V </p>
+      <p>temperature: <!--#temp--> &#8451;</p>
+    </section>
+
+    <section>
+        <h2>Uptime:</h2>
+        <p>Uptime since MCU connect to power: <!--#uptime--> s</p> 
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; Misha Zaslavskis. All rights reserved</p>
+  </footer>
+</body>
+</html>

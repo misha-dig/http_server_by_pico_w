@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LED controller</title>
+  <style>
+    body {
+      font-family: 'Trebuchet MS', sans-serif;
+      font-size:16px;
+    }
+    button {
+      padding: 16px 48px;
+      font-family: 'Trebuchet MS', sans-serif;
+      font-size:16px;
+      border:2px solid black;
+      border-radius:16px;
+    }
+    .red {
+      background-color: red;
+      color: white;
+    }
+    .green {
+      background-color: green;
+      color:white;
+    }
+    .blue {
+      background-color: blue;
+      color:white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Turning on/off LED via button</h1>
+    <nav>
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+        <li><a href="/gallery.html">Our Gallery</a></li>
+        <li><a href="/sponsor.html">Our sponsors</a></li>
+        <li><a href="/ssi.shtml">Measure voltage and temperature</a></li>
+        <li><a href="/cgi.html">Toggle LEDs</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>Turn on/off LEDs by button below</h2>
+      <form action="/btn_led.cgi">
+        <br><button id="btn_led" name="red" class="red">Turn ON/OFF RED LED</button></br>
+        <br><button id="btn_led" name="green" class="green">Turn ON/OFF GREEN LED</button></br>
+        <br><button id="btn_led" name="blue" class="blue">Turn ON/OFF BLUE LED</button></br>
+        <br><button id="btn_led" name="white">Turn ON/OFF WHITE LED</button></br>
+      </form>
+      <p>You can change color of led as you liked</p>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; Misha Zaslavskis. All rights reserved</p>
+  </footer>
+</body>
+</html>
