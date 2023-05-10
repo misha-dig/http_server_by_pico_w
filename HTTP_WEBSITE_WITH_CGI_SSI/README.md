@@ -156,7 +156,9 @@ Raspberry Pi Ltd. Raspberry Pi Pico SDK Examples. GitHub. https://github.com/ras
 
 lwIP Developers. lwip. GitHub. https://github.com/lwip-tcpip/lwip (A repository lwIP code. I can download only makefsdata perl script for this project)
 
-Any sources code you can look copyright of holder by clicking links above
+Any sources code you can look copyright of holder by clicking links above. 
+
+Many thanks of all authors of opensource coding. :)
 
 # Useful resource
 
