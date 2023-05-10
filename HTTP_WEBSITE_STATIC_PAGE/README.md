@@ -18,14 +18,10 @@ Screen of our home page from my personal website
 
 # Gallery
 
-![20230506_172646](https://github.com/misha-dig/http_server_by_pico_w/assets/55639759/5c0690d8-b0ac-41da-bd28-9b78375bac52)
+![photo_2023-05-10_04-15-18](https://github.com/misha-dig/http_server_by_pico_w/assets/55639759/635d8341-140d-4c6e-9e0b-02e3dd1fab79)
 
-My circuit built in breadboard. 
+My homepage of website opened in my laptop and my Raspberry Pi Pico W
 
-![20230506_172618](https://github.com/misha-dig/http_server_by_pico_w/assets/55639759/b6871456-f0e4-4a8f-b1bf-9b6f51f4118d)
+![image](https://github.com/misha-dig/http_server_by_pico_w/assets/55639759/12fb2d21-ffbd-49e2-b617-5d0eac786374)
 
 My TP-Link TL-WR840N 300 Mbps Wireless router, which we used as DHCP server for this project 
-
-![20230506_172734](https://github.com/misha-dig/http_server_by_pico_w/assets/55639759/5bc4c58b-79ae-4505-8927-8c0f3fb46d35)
-
-My laptop for checking network status of our web server and wireless router. 
