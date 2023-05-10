@@ -19,6 +19,8 @@ Most PC haven't external GPIO pins like microcontroller.
 Cost one Raspberry Pico W is £6.30. (Links: https://thepihut.com/products/raspberry-pi-pico-w)
 Cost one PC is about £50 - 1000. 
 
+I like a microcontroller board Raspberry Pi Pico W becuase it has rich features, functions, application and WIFI support. 
+
  # Thanks
  Thanks you for projecting!!! Enjoy to use this project. 
  
