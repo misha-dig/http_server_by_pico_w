@@ -146,7 +146,7 @@ Krzysiek. (2022, August 15th). Creating a web server on Raspberry Pi Pico W usin
 
 Controllerstech. HTTP WEBSERVER using SSI. Controllerstech. https://controllerstech.com/stm32-ethernet-6-1-http-webserver-ssi/ (Tutorial + video training how to use lwip HTTP server with SSI)
 
-Controllerstech. TTP WEBSERVER using CGI. Controllerstech. https://controllerstech.com/stm32-ethernet-6-2-http-webserver-cgi/ (Tutorial + video training how to use lwip HTTP server with GCI)
+Controllerstech. HTTP WEBSERVER using CGI. Controllerstech. https://controllerstech.com/stm32-ethernet-6-2-http-webserver-cgi/ (Tutorial + video training how to use lwip HTTP server with GCI)
 
 Savannah. Lightweight IP stack. nongnu.org. https://www.nongnu.org/lwip/2_1_x/index.html (Documentation and instruction lwIP library)
 
@@ -186,7 +186,7 @@ Breadboard built electronics sechmatics for LED controller and voltage across po
 
 # Errata makefsdata script (Important information)
 
- When I download makefsdata perl script for generating fsdata.c file-code in lwIP HTTP requesting from lwIP repository. (Links: https://github.com/heiher/lwip)
+ When I download makefsdata perl script for generating fsdata.c file-code in lwIP HTTP requesting from lwIP repository. (Links: https://github.com/lwip-tcpip/lwip)
  
  When I run this code with SSI feature (which need file extension .shtml) and I open our SSI web page as result show plain text in browsers instead shtml rendering. 
  
