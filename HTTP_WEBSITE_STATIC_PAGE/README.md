@@ -141,7 +141,7 @@ https://www.raspberrypi.com/documentation/microcontrollers/ (Finding any importa
 
 # Errata makefsdata script (Important information)
 
- When I download makefsdata perl script for generating fsdata.c file-code in lwIP HTTP requesting from lwIP repository. (Links: https://github.com/heiher/lwip)
+ When I download makefsdata perl script for generating fsdata.c file-code in lwIP HTTP requesting from lwIP repository. (Links: https://github.com/lwip-tcpip/lwip)
  
  When I run this code with SSI feature (which need file extension .shtml) and I open our SSI web page as result show plain text in browsers instead shtml rendering. 
  
